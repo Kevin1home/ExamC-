@@ -1,2 +1,2 @@
-# ExamC-
+# ExamCpp
 Tasks for exam
